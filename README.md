@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/chchan917/chan_cheehoe/blob/main/Profile.jpg)
 
 <!-- Add your details -->
 
@@ -49,8 +49,12 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+DigitalBCG Academy<br>
+Business and Data Analytics Learner at RISE (Mar 2022 – Present)
+
+
+University of Glasgow<br>
+BSc in Computing Science
 
 <!-- EDUCATION Section Ends -->
 
