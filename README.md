@@ -21,7 +21,7 @@ I am __Chee Hoe__, Veteran IT professional with more than fifteen years of exper
 
 Recognised for providing exceptional customer service and foster good relationship with internal customers, major stakeholders and vendors and led team in the smooth running of ICT systems that will improve the efficiency and performance of an organization.
 
-Enrolled to a 6-month BCG RISE Programme with DigitalBCG Academy, Business and Data Analytics Track, expanding knowledge in the data analytics field, while also seeking opportunities in an IT/ICT Manager role.
+Currently enrolled to a 6-month BCG RISE Programme with DigitalBCG Academy, Business and Data Analytics Track, expanding knowledge in the data analytics field, while also seeking opportunities in an IT/ICT Manager role.
 
 
 <!-- Add link to the sections -->
