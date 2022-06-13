@@ -17,7 +17,11 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Chee Hoe__, Veteran IT professional with more than fifteen years of experience in IT infrastructure and end-user support positions. Good all-round technical expertise in Microsoft Wintel Server environment (e.g. Microsoft Active Directory and Exchange Server administration). 
+
+Recognised for providing exceptional customer service and foster good relationship with internal customers, major stakeholders and vendors and led team in the smooth running of ICT systems that will improve the efficiency and performance of an organization.
+
+Enrolled to a 6-month BCG RISE Programme with DigitalBCG Academy, Business and Data Analytics Track, expanding knowledge in the data analytics field, while also seeking opportunities in an IT/ICT Manager role.
 
 
 <!-- Add link to the sections -->
